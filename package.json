@@ -1,0 +1,15 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon index.js"
+  },
+  "author": "João Pedro",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^2.10.0"
+  }
+}
